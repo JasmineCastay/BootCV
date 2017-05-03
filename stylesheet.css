@@ -1,6 +1,41 @@
 .greyBottom {
     border-bottom:2px solid #A9A9A9;
 }
-.col-md-4{
+
+.Contact{
+    border-bottom:2px solid #A9A9A9;
+    margin-bottom:10px;
+}
+
+.Border{
+    color:white;
+    font-size:6px;
+}
+
+.Social{
+    border-bottom:2px solid #A9A9A9;
+}
+
+.Education{
+    border-bottom:2px solid #A9A9A9;
+}
+
+.Tel{
+    border-right:1px solid #A9A9A9;
+}
+
+.Email{
+    border-right:1px solid #A9A9A9;
+}
+
+.col-md-3{
     color:grey;
+    margin-top:20px;
+}
+
+.col-md-9{
+    color:grey;
+    border-left:2px solid #A9A9A9;
+    padding-left:40px;
+    margin-top:20px;
 }
